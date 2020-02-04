@@ -7,7 +7,7 @@ depending on the environment submit to it with methods based on the concept of r
 
 In my case, I was given the **DQN** algorithm to test on *Assault* environment of **OpenAi Gym**. The algorithm was provided to us using the ”stable baselines” library.
 
-# Environment
+## Environment
 
 In the environment ”Assault-v0” the observation consists in the image, the k frames received or it can be the ram;
 instead in ”Assault-ram-v0” is executed the observation is the ram.
@@ -21,7 +21,7 @@ set to zero.
 Our *aim* is to **train the game** using DQN algorithm, in particular, to modify *hyperparameter* in order to obtain quite
 significant results.
 
-# Requirements
+## Requirements
 
 Use google colab to run the code, using the GPU.
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
